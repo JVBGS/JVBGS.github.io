@@ -3,6 +3,6 @@
 <title>Hello There</title>
 </head>
 <body>
-<p>Foof Foof is very smelly/p>
+<p>Foof Foof is very <b>smelly</b></p>
 </body>
 </html>
